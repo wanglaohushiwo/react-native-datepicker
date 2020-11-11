@@ -1,5 +1,5 @@
 ### react-native-datepicker
-React Native DatePicker component for both Android and iOS having the same display effect。这个库是将ant-design for rn里的datepicker控件独立开来的一个纯js控件，核心代码没有改动，简化了原控件的使用。ant-design for rn的项目地址https://github.com/ant-design/ant-design-mobile-rn;  
+React Native DatePicker component for both Android and iOS having the same display effect。这个库是将ant-design for rn里的datepicker控件独立开来的一个纯js控件，核心代码没有改动。ant-design for rn的项目地址https://github.com/ant-design/ant-design-mobile-rn;  
 使用中需要注意点如下  
 1.直接把项目中的date-picker/datepicker拷到项目中就可以使用，需要安装I18n(见第二点说明)  
 2.项目中使用用了I18n做多语言设置，所以得安装I18n,库地址https://github.com/AlexanderZaytsev/react-native-i18n；  
