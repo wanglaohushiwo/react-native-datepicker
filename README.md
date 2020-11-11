@@ -10,10 +10,10 @@ React Native DatePicker component for both Android and iOS having the same displ
 
 ###Example
 
-![image](http://github.com/wanglaohushiwo/react-native-datepicker/blob/master/images/example.gif)
+![image](https://github.com/wanglaohushiwo/react-native-datepicker/blob/master/images/example.gif)  
 
 
-#### Usage
+### Usage
 
 ```javascript
 import React from 'react';
